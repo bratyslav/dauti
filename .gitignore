@@ -1,0 +1,30 @@
+# --- WebStorm / JetBrains IDEs ---
+# Ignore the entire .idea folder except for shared configurations
+.idea/
+!.idea/codeStyles/
+!.idea/encodings.xml
+!.idea/inspectionProfiles/
+!.idea/vcs.xml
+
+# Specific JetBrains local / runtime files to ignore
+*.iml
+*.iws
+.idea/workspace.xml
+.idea/shelf/
+.idea/tasks.xml
+.idea/dictionaries/
+
+# --- Node / JavaScript (WebStorm defaults) ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# --- Build Outputs & Cache ---
+dist/
+build/
+.cache/
+.parcel-cache/
+
+.DS_Store
