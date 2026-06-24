@@ -4,6 +4,7 @@ module.exports = function(eleventyConfig) {
 
     return {
         templateFormats: ["md", "html", "liquid"],
+        pathPrefix: "/autoroad-master/",
 
         dir: {
             input: "src",
