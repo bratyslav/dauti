@@ -2,19 +2,19 @@
   "en": {
     "langName": "English",
     "hero": {
-      "titlePart1": "Redefine Luxury.",
-      "titleSpan1": "Elite Pre-Owned Vehicles",
+      "titlePart1": "Redefine",
+      "titleSpan1": "Luxury.",
       "titleSpan2": "Ready to Inspire.",
-      "subtitle": "Curated selection of world-class luxury vehicles. Exquisite condition, legendary performance, and an elite ownership experience tailored just for you."
+      "subtitle": "Curated selection of world-class luxury vehicles."
     }
   },
   "sq": {
     "langName": "Shqip",
     "hero": {
-      "titlePart1": "Redifino Luksin.",
-      "titleSpan1": "Automjete Elite të Përdorura",
+      "titlePart1": "Redifino",
+      "titleSpan1": "Luksin.",
       "titleSpan2": "Gati për t'ju Frymëzuar.",
-      "subtitle": "Një përzgjedhje e curuar e automjeteve luksoze të klasit botëror. Gjendje e jashtëzakonshme, performancë legjendare dhe një përvojë elite pronësie e krijuar vetëm për ju."
+      "subtitle": "Një përzgjedhje e curuar e automjeteve luksoze të klasit botëror."
     }
   }
 }
